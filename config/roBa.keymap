@@ -134,10 +134,10 @@
 
         SCROLL {
             bindings = <
-&trans     &trans    &trans  &trans  &trans                      &trans  &trans  &trans  &trans  &trans
-&kp LSHFT  &kp LALT  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &trans  &trans  &trans
-&kp LSHFT  &kp LALT  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &trans  &trans  &trans
-&trans     &trans    &trans  &trans  &trans  &trans      &trans  &trans                          &trans
+&trans            &trans    &trans  &trans  &trans                      &trans  &trans  &trans  &trans  &trans
+&kp LEFT_CONTROL  &kp LALT  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &trans  &trans  &trans
+&kp LSHFT         &kp LALT  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &trans  &trans  &trans
+&trans            &trans    &trans  &trans  &trans  &trans      &trans  &trans                          &trans
             >;
         };
     };

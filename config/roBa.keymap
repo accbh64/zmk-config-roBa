@@ -96,7 +96,7 @@
 &to 1  &kp LEFT_WIN  &kp LEFT_ALT  &mt LEFT_SHIFT INT_HENKAN  &lt 2 SPACE  &mt LCTRL INT_MUHENKAN      &kp BACKSPACE  &lt 3 ENTER                             &kp DEL
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
+            sensor-bindings = <&inc_dec_kp C_VOLUME_DOWN C_VOLUME_UP>;
         };
 
         FUNCTION {
